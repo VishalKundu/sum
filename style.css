@@ -1,0 +1,13 @@
+.input,.others{
+    border: 0px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    margin-top: 10px;
+}
+body{
+    text-align: center;
+}
